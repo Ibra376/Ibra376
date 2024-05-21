@@ -1,16 +1,5 @@
-- 👋 Hello there
--
-- I’m Ibrahim, currently an officer in the Singapore Armed Forces. Passionate about Coding, Game Development, and Emerging Technology 💻🎮🚀
+👋 Hello there
 
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibra376)](https://github.com/anuraghazra/github-readme-stats)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I’m Ibrahim, currently an officer in the Singapore Armed Forces. Passionate about Coding, Game Development, and Emerging Technology 💻🎮🚀
 
-<!---
-Ibra376/Ibra376 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibra376)](https://github.com/anuraghazra/github-readme-stats)
