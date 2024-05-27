@@ -12,5 +12,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
  <a href="https://www.linkedin.com/in/ibrahim-mohamed-5b2a939b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp.jpeg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibra376&show_icons=true)  
-
+![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibra376&theme=noctis_minimus&show_icons=true)
