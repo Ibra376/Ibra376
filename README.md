@@ -1,4 +1,4 @@
-![](https://www.canva.com/design/DAGGaIjmzCY/WevcrUGJ_sRfSkv8KD5lpw/edit?utm_content=DAGGaIjmzCY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![](https://github.com/Ibra376/Ibra376/blob/main/Hello%20There!.png)
 
 Experienced leader with a background in strategic education development and military command roles. Seeking a transition to a software engineering role, leveraging leadership experience and analytical skills to contribute to innovative software development projects.
 
