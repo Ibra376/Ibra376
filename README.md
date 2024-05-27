@@ -9,8 +9,8 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 - 👯 I’m looking to collaborate on ML Projects 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ibra376)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ibrahim-mohamed-5b2a939b/)  
+ <a href="https://www.linkedin.com/in/ibrahim-mohamed-5b2a939b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/OQUXwNp.jpeg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibra376&show_icons=true)  
-
 
